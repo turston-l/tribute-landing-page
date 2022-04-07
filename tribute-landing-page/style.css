@@ -1,0 +1,35 @@
+body {
+    background-color: lightgray;
+}
+
+#main {
+    background-color: white;
+}
+
+#title {
+    text-align: center;
+}
+
+#sub-head {
+    text-align: center;
+}
+
+#img-div {
+    text-align: center;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#timeline-head {
+    text-align: center;
+}
+
+#timeline-head-info {
+    text-align: center;
+}
+
+#tribute-link {
+    text-align: center;
+}
